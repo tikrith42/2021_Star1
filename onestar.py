@@ -21,7 +21,7 @@ while a!='':
     b=(f.readline())
 
 
-# checks to see if reading lines and comparing correctly
+# troubleshooting checks to see if reading lines and comparing correctly
     #print(a)
     #print(b)
 
@@ -53,9 +53,4 @@ print ("No changes equals ",noch)
 
 
 
-# if a>b then:
-# increase+=1
-# else
-# decrease+=1
-
-    
+  
